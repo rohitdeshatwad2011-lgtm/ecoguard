@@ -1,18 +1,19 @@
 # EcoGuard - Smart Environmental Monitor
 
-EcoGuard is a web application created to spread awareness about environmental protection and help students track eco-friendly habits.
+EcoGuard is a simple web project I made to monitor environmental data in an easy way. I built this project to learn web development and practice my coding skills.
 
-## 🌟 Features
-- Interactive dashboard for eco awareness
-- Clean, responsive HTML & CSS interface
-- Simple tools to track green daily habits
+1) Features
+- Very simple and clean user interface
+- Easy to navigate dashboard
+- Works directly in any browser
 
-## 🚀 How to Use
-1. Visit the live site: https://rohitdeshatwad2011-lgtm.github.io/ecoguard/
-2. Explore tips and environmental monitor options.
-
-## 🛠️ Built With
+2) Technologies Used
 - HTML5
 - CSS3
 - JavaScript
-- GitHub Pages
+
+3) How to Run This Project
+1. Download or clone this repository to your computer.
+2. Open the `index.html` file in Chrome or any web browser.
+
+Made by Rohit Deshatwad
