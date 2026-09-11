@@ -1,19 +1,27 @@
-# EcoGuard - Smart Environmental Monitor
+# EcoGuard - Environmental Monitor
 
-EcoGuard is a simple web project I made to monitor environmental data in an easy way. I built this project to learn web development and practice my coding skills.
+EcoGuard is a simple web project I made to help users monitor environmental conditions easily. 
 
-1) Features
-- Very simple and clean user interface
-- Easy to navigate dashboard
-- Works directly in any browser
+## Why I Built This Project
+I wanted to build a dashboard that shows basic environmental data in a clean and easy-to-read way. 
 
-2) Technologies Used
-- HTML5
-- CSS3
-- JavaScript
+## Features
+- Clean and responsive dashboard layout
+- Easy navigation and clear data representation
+- Works on all modern web browsers without any installation
 
-3) How to Run This Project
-1. Download or clone this repository to your computer.
-2. Open the `index.html` file in Chrome or any web browser.
+## Technologies Used
+- HTML5 (for page structure)
+- CSS3 (for styling and layout)
+- JavaScript (for basic dynamic interactions)
 
-Made by Rohit Deshatwad
+## How to Run the Project Locally
+1. Download or clone this repository to your system.
+2. Locate the `index.html` file in the project folder.
+3. Double-click or open `index.html` in Chrome or any browser.
+
+## Future Improvements
+- Adding real-time API support for live environmental data.
+- Improving mobile responsiveness even further.
+
+Created by Rohit Deshatwad
